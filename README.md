@@ -25,7 +25,7 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+https://github.com/Tyratheemvp/SA.02-WK2-Code-Challenge
 
 ```
 
